@@ -7,6 +7,13 @@ The project takes market data from an API or a local CSV file, cleans
 it, calculates a few time-series metrics, stores the results in
 PostgreSQL, and displays the data in a Streamlit dashboard.
 
+# Demo
+
+
+https://github.com/user-attachments/assets/65192f21-60f6-406b-b70d-0b39239e3368
+
+
+
 ## What it does
 
 -   Search for companies and tickers through Twelve Data.

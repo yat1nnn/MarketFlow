@@ -4,6 +4,14 @@ An end-to-end market data engineering project built with Python, Twelve Data, Po
 
 MarketFlow ingests stock market data from an external API or local CSV data, cleans and standardizes the incoming records, calculates time-series metrics, loads the results into PostgreSQL, and exposes the stored data through a Streamlit analytics dashboard.
 
+#Demo
+
+
+
+https://github.com/user-attachments/assets/4b95693f-34b6-4534-b63b-72ff1ade5a93
+
+
+
 ---
 
 ## 🚀 Project Overview
